@@ -1,4 +1,4 @@
-# face-recognition-attendance-system-
+# face-recognition-attendance-system
 
 How to use the code:
 1. Mount your Google Drive
